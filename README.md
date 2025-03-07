@@ -3,3 +3,4 @@
 # Mastering git commands
 
 # Git commands
+git init
