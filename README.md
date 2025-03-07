@@ -24,3 +24,5 @@ git lfs install
 git lfs track "*.png"
 
 cat .gitattributes
+
+*.glb filter=lfs diff=lfs merge=lfs -text
