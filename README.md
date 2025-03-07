@@ -31,4 +31,6 @@ git add .gitattributes directory/.png
 
 git commit -m "Added file"
 
+git push origin main
+
 
