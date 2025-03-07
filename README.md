@@ -20,3 +20,5 @@ git push origin main
 # Git LFS
 
 git lfs install
+
+git lfs track "*.png"
