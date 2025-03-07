@@ -9,3 +9,4 @@ git add .
 
 git commit -m "comment"
 
+git branch -M main
