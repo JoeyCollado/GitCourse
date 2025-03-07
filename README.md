@@ -29,3 +29,6 @@ cat .gitattributes
 
 git add .gitattributes directory/.png
 
+git commit -m "Added file"
+
+
