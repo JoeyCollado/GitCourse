@@ -22,3 +22,5 @@ git push origin main
 git lfs install
 
 git lfs track "*.png"
+
+cat .gitattributes
