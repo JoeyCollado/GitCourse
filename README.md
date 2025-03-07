@@ -26,3 +26,6 @@ git lfs track "*.png"
 cat .gitattributes
 
 *.glb filter=lfs diff=lfs merge=lfs -text
+
+git add .gitattributes directory/.png
+
