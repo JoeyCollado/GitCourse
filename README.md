@@ -14,3 +14,5 @@ git branch -M main
 git remote add origin https://github.com/JoeyCollado/GitCourse.git
 
 git pull origin main --rebase
+
+git push origin main
