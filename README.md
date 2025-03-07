@@ -4,4 +4,5 @@
 
 # Git commands
 git init
+
 git add .
